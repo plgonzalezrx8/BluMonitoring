@@ -3,4 +3,14 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  background-color: darkslategrey;
+}
+
+
+#app-title {
+  text-align: center;
+  padding: 10px;
+  border: darkturquoise;
+  border-style: solid;
+  border-radius: 5px;
 }
